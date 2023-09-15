@@ -2,6 +2,7 @@
 # 2023.6.25
 
 title/^.*(推荐|推广|注册网|手输网|输入|ek520|seetv|ezk888|xiaobi|3233|bb8808|liuhenvip|✔️).*/
+*://*.kandaoni.com/*
 *://*.000.org.cn/*
 *://*.001nlp.com/*
 *://*.010bom.com/*
