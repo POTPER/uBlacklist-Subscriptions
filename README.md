@@ -20,4 +20,4 @@ https://raw.githubusercontent.com/scyrte/uBlacklist-Subscription/master/blacklis
 
 ## 许可
 
-[MIT License](https://raw.githubusercontent.com/scyrte/uBlacklist-Subscription/master/License)
+[MIT License](https://raw.githubusercontent.com/POTPER/uBlacklist-Subscriptions/master/License)
